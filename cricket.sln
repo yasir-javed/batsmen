@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cricket", "cricket\cricket.vcxproj", "{B2B26AA9-1346-4B54-9C44-38C4CA4309B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2B26AA9-1346-4B54-9C44-38C4CA4309B5}.Debug|x64.ActiveCfg = Debug|x64
+		{B2B26AA9-1346-4B54-9C44-38C4CA4309B5}.Debug|x64.Build.0 = Debug|x64
+		{B2B26AA9-1346-4B54-9C44-38C4CA4309B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2B26AA9-1346-4B54-9C44-38C4CA4309B5}.Debug|x86.Build.0 = Debug|Win32
+		{B2B26AA9-1346-4B54-9C44-38C4CA4309B5}.Release|x64.ActiveCfg = Release|x64
+		{B2B26AA9-1346-4B54-9C44-38C4CA4309B5}.Release|x64.Build.0 = Release|x64
+		{B2B26AA9-1346-4B54-9C44-38C4CA4309B5}.Release|x86.ActiveCfg = Release|Win32
+		{B2B26AA9-1346-4B54-9C44-38C4CA4309B5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C0791A1-3248-4BA7-B730-BB7BC88E7364}
+	EndGlobalSection
+EndGlobal
